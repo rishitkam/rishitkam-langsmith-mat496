@@ -7,3 +7,6 @@ I learnt that through Tracing we can see how the workflow execution is done by L
 
 Tweaking:
 I added custom metadata, including custom metadata at runtime, defined a new function langsmith_rishit which has its own set of input documents instead of using the default function from the repository and traced it, also added metadata in those traces, I have uploaded annotated screenshots in my code to put up a better understanding of whats happening, I added some questions and arguments of my own in the orignal code as well.
+
+Source code : https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_1/tracing_basics.ipynb
+My code : 

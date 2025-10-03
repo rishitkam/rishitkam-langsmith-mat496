@@ -10,3 +10,7 @@ I added custom metadata, including custom metadata at runtime, defined a new fun
 
 Source code : https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_1/tracing_basics.ipynb
 My code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Module1/tracing_basics.ipynb
+
+
+Video 2:
+

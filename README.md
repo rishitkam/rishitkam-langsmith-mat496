@@ -14,10 +14,9 @@ My code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Modu
 
 Video 2:
 Learnings : 
-LangSmith gives us the option to specify different run types (like llm, retriever, tools, chain, prompt, parser) in the @traceable decorator.
-Using run types helps categorize and organize traces, making it easier to debug, analyze performance, and understand how different components interact in a workflow.
+LangSmith gives us the option to specify different run types (like llm, retriever, tools, chain, prompt, parser) in the @traceable decorator. It makes different components of our application render in different ways. Using run types helps categorize and organize traces, making it easier to debug, and understand how different components interact in a workflow
 
-Tweaking : Added my inferences after each sub topic based on the video and the code which i just wrote, added annotated screenshots of the langsmith interface to further clarify how things are working, defined a new tool of my own "get_stock_price", Modified some source codes in LLM run type to give slighly different output format.
+Tweaking : Added my inferences after each sub topic based on the video and the code which i wrote and run, added annotated screenshots of the langsmith interface to further clarify how things are working, defined a new tool of my own "get_stock_price" and used it with run_type = tool, Modified some source codes in LLM run type to give slighly different output format.
 
 Source code : https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_1/types_of_runs.ipynb
 My code : 

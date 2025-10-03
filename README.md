@@ -20,3 +20,6 @@ Tweaking : Added my inferences after each sub topic based on the video and the c
 
 Source code : https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_1/types_of_runs.ipynb         
 My code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Module1/types_of_runs.ipynb
+
+
+Video 3 :

@@ -64,7 +64,7 @@ Video 3 :
 Learnings : Experiments is what brings together Datasets and evaluators, It is a process where we run a application over a dataset and evaluate the performance with evaluator, We run the application against each example in a dataset and it creates a new output for each run, the evaluator evaluates each output, We can run an evaluator locally using LangChain SDK or we can run it in the UI on LangSmith Website, We can run experiments over the whole data, specific versions (tags) of the dataset, Splits of the dataset or over specific examples as well, We can experiment on different models, We can also set the repititions, concurrency or metadata in the experiments, repitions define how many times each example will be evaluated,Concurrency specifies how many examples will be processed simultaneously, and with metadata we can add useful metadata to our experiments which helps us to filter experiments later on like "model_name". Overall experiments is a very powerful and helpful tool which helps us to evaluate the performance of LLMs.
 
 
-Tweakings: 
+Tweakings: Ran the experiments given in the source code on my own custom dataset, changed the number of splits we were running the experiment on from 1 to 2 i.e ran an experiment on two splits together, created a new combination of examples to be evaluated using their ID, added custom metadata of my own to experiments, Defined a new experiment which evaluated 'contains key terms' , 'has proper citation', and 'is not too short' over two datasets, MAT_496_1 and the one given in the source.
 
 
 

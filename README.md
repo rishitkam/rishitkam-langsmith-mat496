@@ -89,7 +89,9 @@ my code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Modu
 video 6 : 
 Learnings : Certain evaluation metrics—such as precision, recall, and F1 score, require aggregating results across all examples in an experiment and cannot be computed for individual data points. These are known as summary evaluators. Summary evaluators operate on the complete set of runs and examples from an experiment, enabling the calculation of aggregate performance metrics that provide a holistic view of model behavior.
 
-Tweakings : 
+Tweakings : Added annotated screenshots to explain things better, defined a summary evaluator of my own, added screenshots to explain things better
+
+source code : https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_2/summary_evaluators.ipynb
 
 
 

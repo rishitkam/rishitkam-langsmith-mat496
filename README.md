@@ -38,4 +38,5 @@ conversational threads are a great way to represent a conversation with multiple
 Tweakings: Added my Inferences based on the code and the video, defined a new thread id in the metadata and hence created a new conversation thread on the original src code and asked it new questions to test it, defined a systen of my own which is able to have back and forth conversation with a user and stores it all in a thread which gives a very neat final look, almost like an actual ai bot.
 
 Source code : https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_1/conversational_threads.ipynb
+My code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Module1/conversational_threads.ipynb
 

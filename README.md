@@ -27,3 +27,6 @@ Learnings : According to our requirements and needs we can apply different traci
 
 Tweaking:
 defined a completely new RAG function which takes the context from a website (i used wikipedia) and implemented the traceable, tracing context managaer, and wrap open ai tracing methods on it, Then I defined that same function with a new wikipedia source and this time added the LangGraph out of the box tracing method as well and attatched the screenshots from Langsmith showcasing the different tracings, I have also written my own inferences and annotated screenshots in the source code parts and asked some new questions along with adding custom metadata at runtime in the different tracing method.
+
+Source code : https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_1/alternative_tracing_methods.ipynb
+My code : 

@@ -58,6 +58,7 @@ Learnings : This video tells about evaluators, which is the tool we use to ACTUA
 Tweakings : I added my own carefully chosen examples to the existing evaluator in the source code to demonstrate how the score of evaluators changes as the output improves in quality (whatever metric we are using like similarity ot hallucination), I also defined a new evaluator which measured the halucination score of an llm model response based on a reference response using LLM as judge, on a scale of 1-5, 5 being the worst and 1 being the best, Then I tested this evaluator with multiple output types and established its working, then finally I added screenshots to show the Evaluator made by me on the LangSmith website using LLM as judge which I made by following the tutorial video.
 
 Source code : https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_2/evaluators.ipynb
+My Code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Module2/evaluators.ipynb
 
 
 

@@ -53,5 +53,8 @@ Source code : https://github.com/langchain-ai/intro-to-langsmith/blob/main/noteb
 My code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Module2/dataset_upload.ipynb
 
 Video 2 :
+Learnings : This video tells about evaluators, which is the tool we use to ACTUALLY measure perforamce against the examples in datasets, An evaluator runs our application over examples in a dataset and gives metrics like Accuracy or Hallucination, It takes our given input, reference output and the actual output as inputs and calculates metrics, we can define evlaluators using our own code logic or by using llm as judge, furthermore evaluators can be defined in both the jupyter notebook or LangSmith website directly inside the database 
+
+Tweakings : 
 
 

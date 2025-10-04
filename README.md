@@ -44,6 +44,9 @@ My code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Modu
 
 Module 2 
 
-Video 1 
-Learnings : 
+Video 1 : 
+Learnings : In this video we learned about the importance and value of datasets in measuring the performace of llm applications which by nature are non deterministic and hence testing them is important, datasets are the cornerpeice of our evaluation, whenever we make changes dataset help us to assess if there were improvements due to that change or not. Fundamentally datasets are a list of Examples, you can have both inputs and outputs in an example, You can add tags to dataset to track different versions of it, additionally you can also keep specific examples in a separate split to test on them separately, giving them more importance.
+
+Tweakings: 
+
 

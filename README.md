@@ -70,7 +70,11 @@ Source code: https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebo
 My code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Module2/experiments.ipynb
 
 
-Video 4 :
+
+Video 4 : 
+Learnings : The findings of all the experiments that we ran in our jupyter notebook are very neatly displayed in the LangSmith portal in a very organized manner , Charts have been given to us which are a great way to look at the big picture, We  can add filters to look at and monitor specific test cases, From the experiments summary tab we can open a single experiment in large view to better look at its statistics and can even oven example from it whose traces can also be seen by clicking on them, Evaluators themselves are a type of run and have traces which we can see. We can add filters within the experiment to see specific data, We can compare different experiments side by side by either graphs or other metrics, In summary, LangSmith provides us with a very rich library of functions to analyze the experiments and hence we can get to know about our models in great details.
+
+
 
 
 

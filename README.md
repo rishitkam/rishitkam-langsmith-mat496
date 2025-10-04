@@ -49,6 +49,7 @@ Learnings : In this video we learned about the importance and value of datasets 
 
 Tweakings: I created new traces and added them to the dataset which we had populated through the source code, I have uploaded screenshots of the tweaks to the dataset which i did through the LangSmith website as most of this video was covering the changes we can make there instead of Jupyter notebook, I added schemas, Tags, splits etc. in the dataset, I created and populated a dataset of my own by writing a code and then applied some other modifications on it through the LangSmith website and Uploaded those screenshots as well. I wrote another new code which populates a dataset with only inputs and no outputs.
 
-Source code : 
+Source code : https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_2/dataset_upload.ipynb
+My code : 
 
 

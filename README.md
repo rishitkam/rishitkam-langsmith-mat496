@@ -67,7 +67,10 @@ Learnings : Experiments is what brings together Datasets and evaluators, It is a
 Tweakings: Ran the experiments given in the source code on my the source and my own custom dataset, changed the number of splits we were running the experiment on from 1 to 2 i.e ran  experiments on one and then on two splits together, created a new combination of examples to be evaluated using their ID from the langsmith protal , added custom metadata of my own to experiments, Defined a new experiment which evaluated 'contains key terms' , 'has proper citation', and 'is not too short' over two datasets, MAT_496_1 and the one given in the source. Added custom metadata on my the experiment defined by me and also ran that experiment on different splits and on a combination of individual examples
 
 Source code: https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_2/experiments.ipynb
-My code : 
+My code : https://github.com/rishitkam/rishitkam-langsmith-mat496
+
+
+Video 4 :
 
 
 

@@ -60,5 +60,8 @@ Tweakings : I added my own carefully chosen examples to the existing evaluator i
 Source code : https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_2/evaluators.ipynb
 My Code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Module2/evaluators.ipynb
 
+Video 3 :
+Learnings :
+
 
 

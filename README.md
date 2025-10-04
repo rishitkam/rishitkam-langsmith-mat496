@@ -40,3 +40,10 @@ Tweakings: Added my Inferences based on the code and the video, defined a new th
 Source code : https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_1/conversational_threads.ipynb
 My code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Module1/conversational_threads.ipynb
 
+
+
+Module 2 
+
+Video 1 
+Learnings : 
+

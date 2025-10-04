@@ -78,7 +78,12 @@ tweakings:  As there were no source code given, I have made a file which contain
 My files : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Module2/Analyzing_experiment_results.ipynb
 
 Video 5 : 
+Learnings : Sometimes evaluating two models separately and then comparing them may not always give a decisive or desired result, to compare two models head to head we use the pairwise Evaluation, It is especially useful when it difficult to store but easier to compare 2 outputs.
 
+Tweakings : Imported my Own dataset which I custom made and defined a pairwise experiment of my own on two prompts, added screenshots to make things more clear
+
+source code : https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_2/pairwise_experiments.ipynb
+my code :
 
 
 

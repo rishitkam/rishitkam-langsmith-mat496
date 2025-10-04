@@ -32,3 +32,8 @@ Source code : https://github.com/langchain-ai/intro-to-langsmith/blob/main/noteb
 My code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Module1/alternative_tracing_methods.ipynb
 
 Video 4
+Learnings : 
+conversational threads are a great way to represent a conversation with multiple questions b/w the user and the model, where each question has its own trace, All traces can be tied together using a unique id, this binding together of traces is called a conversational thread, it gives a more chat-bot like interface which we usually see in ai models we talk with, It is basically a series of traces, with each trace representing an invocation in the application, it is a higher level abstraction. we can see the threads in Thread view in LangSmith which provides a pretty neat representation, It is very useful for debugging a full interaction with multiple traces.
+
+Tweakings: 
+

@@ -95,4 +95,11 @@ source code : https://github.com/langchain-ai/intro-to-langsmith/blob/main/noteb
 my code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Module2/summary_evaluators.ipynb
 
 
+Module 3 
+
+
+Video 1 : 
+Learnings : 
+
+
 

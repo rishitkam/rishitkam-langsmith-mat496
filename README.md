@@ -97,9 +97,8 @@ my code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Modu
 
 Module 3 
 
-
 Video 1 : 
-Learnings : 
+Learnings : Langsmith provides the playground environment which is used mainly for Prompt engineering, We usually think of prompt as hard coded strings but prompt templates are another way to give a prompt which have templated variables hydrated by the user at run time, it gives the user more flexibility. With playground we can engineer prompts, compare outputs and even run experiments over data on LLM prompts, Playground also allows us to add tools, and even allows us to open and load datasets into it, we can set output Schemas to maintain consistency and ensure the model gives the output in a specfic format. In summary Playground is an amazing toola and a sandbox for llms
 
 
 

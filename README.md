@@ -103,5 +103,6 @@ Learnings : Langsmith provides the playground environment which is used mainly f
 Tweakings : Added screenshots to explain Playground in LangSmith and demonstrated all its major features, Tried new prompt templates on the already existing dataset, Used repititions on it to see if the answer was accurate, Created a database of my own, Ran it with different prompt templates, compared 2 LLM models using the same prompt templates on this dataset and saw the output
 
 Source code : https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_3/playground_experiments.ipynb
+my code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Module3/playground_experiments.ipynb
 
 

@@ -127,7 +127,7 @@ Learnings : we can leverage LLMs to help us write better prompts according to ou
 
 Tweakings : Since there was no source file for this video, I have made my own jupyter notebook which contains annotated screenshots explaining everything that we did on the langsmith wesbite, and added my own prompt examples, which i made using the prompt canvas features.
 
-My code : 
+My code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Module3/prompt_canvas.ipynb
 
 
 

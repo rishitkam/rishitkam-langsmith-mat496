@@ -116,8 +116,11 @@ My code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Modu
 
 Video 3 :
 Learnings : Basically in this video we took our learnings of playground and prompt hub and tied it all togethet using a RAG application, using traces we can iterate on each prompt, we can change it according to our needs, see the output and then improve it again based on the output, we can test the prompt over any database which is a very helpful thing to efficienty check if our prompt is working fine, After our coke is hooked to a prompt and suppose we commit some more changes to the prompt we dont have to change our code again and again, it reflects the latest commit which is very helpful, to summarise basically we saw and learnt from an end-end example using playground and prompt hub to help iterate over a particular prompt within our application. It was basically the application of the previous two videos combined 
-Tweakings : 
+
+Tweakings : I created a custom dataset focused on climate change and deforestation, exploring various causes, impacts, and potential solutions. I then used  Playground along with PromptHub to make a prompt I then added custom examples on it , iterating multiple times to improve its performance and output quality and also ran an experiment over the custom dataset which I had created.
+
 Source code: https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_3/prompt_engineering_lifecycle.ipynb
+
 My code : 
 
 

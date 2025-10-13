@@ -116,5 +116,14 @@ My code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Modu
 
 Video 3 :
 Learnings : 
+Tweakings : 
+Source code:
+My code : 
+
+
+
+Video 4 :
+Learnings : we can leverage LLMs to help us write better prompts according to our specific requirements using prompt canvas, which is a tool found in the LangSmith playground interface, we can open it using the magic wand tool, We can ask it to write a completely new prompt, make our existing prompt better , change specific parts of our prompt, standardise prompts, by setting the reading level and the length, etc. these latter parts whcih help us to standardise prompts comes under the category of Quick actions tools which ultimately comes under the prompt canvas itself, there's also a custom action button which lets us make our own quick action tools. It is a very helpful tool especially for standardization of prompts which is a great help in collaboration over organizations .
+
 
 

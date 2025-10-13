@@ -106,3 +106,7 @@ Source code : https://github.com/langchain-ai/intro-to-langsmith/blob/main/noteb
 my code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Module3/playground_experiments.ipynb
 
 
+Video 2 : 
+Learnings : In Langsmith there is a tab called the prompts hub which acts as a central repository for designing saving and managing prompt templates, after making a prompt we can commit changes to prompts, push new templates from our code to the prompts hub and also pull templates from the prompts hub to our code, we can even pull specific versions of the code. A prompt template contains changeable variables which are hydrated by the user at the run time, it also includes the model configuration and we can also define an output schema to ensure that our output follows a certain format. (some learnings like output schema and prompt templates were same in both the videos).
+
+

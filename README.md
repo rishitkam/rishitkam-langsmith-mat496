@@ -114,4 +114,7 @@ Tweakings : I added annotated screenschots to properly explain what I saw and le
 Source code : https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_3/prompt_hub.ipynb
 My code : https://github.com/rishitkam/rishitkam-langsmith-mat496/blob/main/Module3/prompt_hub.ipynb
 
+Video 3 :
+Learnings : 
+
 
